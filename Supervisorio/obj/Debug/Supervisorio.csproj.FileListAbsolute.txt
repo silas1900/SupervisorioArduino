@@ -1,0 +1,10 @@
+D:\PDF\PROGRAMAÇÃO\C\C#\supervisorio\Supervisorio\bin\Debug\Supervisorio.exe.config
+D:\PDF\PROGRAMAÇÃO\C\C#\supervisorio\Supervisorio\bin\Debug\Supervisorio.exe
+D:\PDF\PROGRAMAÇÃO\C\C#\supervisorio\Supervisorio\bin\Debug\Supervisorio.pdb
+D:\PDF\PROGRAMAÇÃO\C\C#\supervisorio\Supervisorio\obj\Debug\Supervisorio.csprojAssemblyReference.cache
+D:\PDF\PROGRAMAÇÃO\C\C#\supervisorio\Supervisorio\obj\Debug\Supervisorio.Form1.resources
+D:\PDF\PROGRAMAÇÃO\C\C#\supervisorio\Supervisorio\obj\Debug\Supervisorio.Properties.Resources.resources
+D:\PDF\PROGRAMAÇÃO\C\C#\supervisorio\Supervisorio\obj\Debug\Supervisorio.csproj.GenerateResource.cache
+D:\PDF\PROGRAMAÇÃO\C\C#\supervisorio\Supervisorio\obj\Debug\Supervisorio.csproj.CoreCompileInputs.cache
+D:\PDF\PROGRAMAÇÃO\C\C#\supervisorio\Supervisorio\obj\Debug\Supervisorio.exe
+D:\PDF\PROGRAMAÇÃO\C\C#\supervisorio\Supervisorio\obj\Debug\Supervisorio.pdb
