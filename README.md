@@ -1,4 +1,4 @@
-# **Supervisório para Arduino em c#**
+# **Supervisório para Arduino usando comunicação serial em c#**
 <br/>
 <br/>
 <br/>
